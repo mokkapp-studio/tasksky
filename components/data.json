@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Company website redesign.",
+        "comments": 1,
+        "files": 2,
+        "state": "backlog",
+        "tag": "(90deg, #CF7DD6 0%, #DC78A1 100%)"
+    },
+    {
+        "title": "Company website redesign.",
+        "comments": 3,
+        "files": 2,
+        "state": "backlog",
+        "tag": "(90deg, #FFA07C 0%, #FFB55F 100%)"
+    },
+    {
+        "title": "Company website redesign.",
+        "comments": 2,
+        "files": 2,
+        "state": "backlog",
+        "tag": "(90deg, #92aafb 0%, #78b1f8 100%)"
+    },
+    {
+        "title": "Company website redesign.",
+        "comments": 1,
+        "files": 3,
+        "state": "backlog",
+        "tag": "(90deg, #7fd5ba 0%, #80d5dd 100%)"
+    }
+]
